@@ -1,5 +1,7 @@
 # Languages Used This Week:
 
+<pre>
+>>>>>>> e3a3bd5d7197c6936c293ba1ade7a06cf1560faa
 <!--START_SECTION:waka-->
 
 ```txt
@@ -11,3 +13,4 @@ Git Config   2 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</pre>
