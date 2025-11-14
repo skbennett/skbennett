@@ -1,3 +1,4 @@
+<pre>
 <!--START_SECTION:waka-->
 
 ```txt
@@ -9,3 +10,4 @@ Git Config   2 mins          ▒░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+</pre>
